@@ -239,19 +239,6 @@ input, select, textarea {
 		text-align: right;
 	}
 
-	/*my work*/
-	
-	#myWork .col-4 {
-				height: 100%; /* Forces equal height */
-		padding: 20px;
-		box-sizing: border-box;
-	}
-	#myWork .col-4 ul.actions {
-		display: flex;
-		justify-content: center;
-		margin-top: auto; /* Pushes button down */
-		width: 100%;
-	}
 /* Container */
 
 	.container {
